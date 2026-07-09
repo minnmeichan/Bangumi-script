@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         收藏人物样式改5×2
 // @namespace    via-script
-// @version      1.0
+// @version      1.1
 // @description  修改 Bangumi 用户页面收藏人物显示布局，调整为 5×2 布局
 // @author       minnmeichan
 // @license      MIT
