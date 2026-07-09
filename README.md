@@ -20,4 +20,4 @@
 - bangumi.rdd.moe
 #### 安装
 
-[安装 收藏人物样式改5×2](https://raw.githubusercontent.com/minnmeichan/Bangumi-script/refs/heads/main/收藏人物样式改5×2.user.js)
+[安装 收藏人物样式改5×2](https://github.com/minnmeichan/Bangumi-script/raw/refs/heads/main/favorite-person-style.user.js)
