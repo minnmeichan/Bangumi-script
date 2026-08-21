@@ -16,7 +16,7 @@
 - bgm.tv
 - bangumi.tv
 - chii.in
-- bangumi.lol
+- bangumi.pro
 
 #### 安装
 
