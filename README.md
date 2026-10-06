@@ -43,7 +43,7 @@
 - chii.in
 
 安装：
-[安装 Bangumi 封面上传与切换增强版](https://raw.githubusercontent.com/minnmeichan/Bangumi-script/refs/heads/main/bangumi_cover_plus.user.js)
+[安装 Bangumi 封面上传与切换增强版（改）](https://raw.githubusercontent.com/minnmeichan/Bangumi-script/refs/heads/main/bangumi_cover_plus.user.js)
 
 完整更新日志见 [CHANGELOG-bangumi-cover-plus.md](./CHANGELOG-bangumi-cover-plus.md)
 
